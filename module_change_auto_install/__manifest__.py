@@ -9,6 +9,11 @@
     "category": "Tools",
     "maintainers": ["legalsylvain"],
     "author": "GRAP, Odoo Community Association (OCA)",
+    "description": """
+Change auto installable modules
+===============================
+This module allows to customize auto installables modules by configuration.
+""",
     "website": "https://github.com/OCA/server-tools",
     "installable": True,
     "depends": ["base"],
